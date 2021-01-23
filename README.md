@@ -1,0 +1,1 @@
+# Personalproject_TradingBot
