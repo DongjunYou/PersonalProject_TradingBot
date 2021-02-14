@@ -1,7 +1,7 @@
 <html>
 
   <h1>1. DBdesign</h1>
-  <li>네이버금융 scraping (BeautifulSoup)</li>
+  <li>네이버금융 scraping (beautifulsoup4)</li>
   <li>DB관리 자동화 (pymysql)</li>
   
   <h1>2. Visualization</h1>
