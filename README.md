@@ -1,5 +1,5 @@
 <html>
-  <h1>DBdesign/h1>
+  <h1>DBdesign</h1>
   
   <h2>Visualization</h2>
   
