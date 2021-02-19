@@ -9,8 +9,6 @@
   <li>캔들차트 (mplfinance)</li>
   <li>볼린저 밴드</li>
   <li>삼중창</li>
-  
-  <h1>3. Prediction</h1>
   <li>주가예측 (tensorflow)</li>
   <li>백테스트 (backtrader)</li>
   
