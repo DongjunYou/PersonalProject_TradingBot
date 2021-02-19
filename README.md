@@ -12,7 +12,7 @@
   <li>주가예측 (tensorflow)</li>
   <li>백테스트 (backtrader)</li>
   
-  <h1>4. Automation</h1>
+  <h1>3. Automation</h1>
   <li>자동매매 (kiwoom)</li>
   <li>알림 (slacker)</li>
 
